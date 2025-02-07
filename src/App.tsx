@@ -3,20 +3,20 @@ import { MapPin, Phone, Mail, Building2, Camera, Calendar, Users, Home } from 'l
 
 function App() {
   const galleryImages = [
-    "/tirupatiinn.in/assets/images/bedroom1.jpg",
-    "/tirupatiinn.in/assets/images/bedroom2.jpg",
-    "/tirupatiinn.in/assets/images/bedroom3.jpg",
-    "/tirupatiinn.in/assets/images/bedroom4.jpg",
-    "/tirupatiinn.in/assets/images/lobby.jpg",
-    "/tirupatiinn.in/assets/images/lobby2.jpg",
-    "/tirupatiinn.in/assets/images/kitchen.jpg",
-    "/tirupatiinn.in/assets/images/livingroom.jpg",
-    "/tirupatiinn.in/assets/images/living2.jpg",
-    "/tirupatiinn.in/assets/images/bathroom.jpg",
-    "/tirupatiinn.in/assets/images/bathroom2.jpg",
-    "/tirupatiinn.in/assets/images/balcony.jpg",
-    "/tirupatiinn.in/assets/images/aboutimage1.jpg",
-    "/tirupatiinn.in/assets/images/front.jpg"
+    "assets/images/bedroom1.jpg",
+    "assets/images/bedroom2.jpg",
+    "assets/images/bedroom3.jpg",
+    "assets/images/bedroom4.jpg",
+    "assets/images/lobby.jpg",
+    "assets/images/lobby2.jpg",
+    "assets/images/kitchen.jpg",
+    "assets/images/livingroom.jpg",
+    "assets/images/living2.jpg",
+    "assets/images/bathroom.jpg",
+    "assets/images/bathroom2.jpg",
+    "assets/images/balcony.jpg",
+    "assets/images/aboutimage1.jpg",
+    "assets/images/front.jpg"
 ];
 
   return (
