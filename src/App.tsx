@@ -3,20 +3,20 @@ import { MapPin, Phone, Mail, Building2, Camera, Calendar, Users, Home } from 'l
 
 function App() {
   const galleryImages = [
-    "assets/images/bedroom1.jpg",
-    "assets/images/bedroom2.jpg",
-    "assets/images/bedroom3.jpg",
-    "assets/images/bedroom4.jpg",
-    "assets/images/lobby.jpg",
-    "assets/images/lobby2.jpg",
-    "assets/images/kitchen.jpg",
-    "assets/images/livingroom.jpg",
-    "assets/images/living2.jpg",
-    "assets/images/bathroom.jpg",
-    "assets/images/bathroom2.jpg",
-    "assets/images/balcony.jpg",
-    "assets/images/aboutimage1.jpg",
-    "assets/images/front.jpg"
+    "images/bedroom1.jpg",
+    "images/bedroom2.jpg",
+    "images/bedroom3.jpg",
+    "images/bedroom4.jpg",
+    "images/lobby.jpg",
+    "images/lobby2.jpg",
+    "images/kitchen.jpg",
+    "images/livingroom.jpg",
+    "images/living2.jpg",
+    "images/bathroom.jpg",
+    "images/bathroom2.jpg",
+    "images/balcony.jpg",
+    "images/aboutimage1.jpg",
+    "images/front.jpg"
 ];
 
   return (
