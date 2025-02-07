@@ -12,7 +12,7 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
   },
-  base: '/tirupatiinn.in/',
+  base: '/', 
   build: {
     outDir: 'dist',
     rollupOptions: {
