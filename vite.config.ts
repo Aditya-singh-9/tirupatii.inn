@@ -12,7 +12,7 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
   },
-  base: '/', 
+  base: '/tirupatiinn.in', // ✅ Fixed Syntax Error
   build: {
     outDir: 'dist',
     rollupOptions: {
